@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Great-Quotes-App-Using-React-Router-v6/static/css/main.8b1e5167.chunk.css",
+    "main.js": "/Great-Quotes-App-Using-React-Router-v6/static/js/main.397a1bf4.chunk.js",
+    "main.js.map": "/Great-Quotes-App-Using-React-Router-v6/static/js/main.397a1bf4.chunk.js.map",
+    "runtime-main.js": "/Great-Quotes-App-Using-React-Router-v6/static/js/runtime-main.dfd36002.js",
+    "runtime-main.js.map": "/Great-Quotes-App-Using-React-Router-v6/static/js/runtime-main.dfd36002.js.map",
+    "static/js/2.d616163e.chunk.js": "/Great-Quotes-App-Using-React-Router-v6/static/js/2.d616163e.chunk.js",
+    "static/js/2.d616163e.chunk.js.map": "/Great-Quotes-App-Using-React-Router-v6/static/js/2.d616163e.chunk.js.map",
+    "index.html": "/Great-Quotes-App-Using-React-Router-v6/index.html",
+    "static/css/main.8b1e5167.chunk.css.map": "/Great-Quotes-App-Using-React-Router-v6/static/css/main.8b1e5167.chunk.css.map",
+    "static/js/2.d616163e.chunk.js.LICENSE.txt": "/Great-Quotes-App-Using-React-Router-v6/static/js/2.d616163e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dfd36002.js",
+    "static/js/2.d616163e.chunk.js",
+    "static/css/main.8b1e5167.chunk.css",
+    "static/js/main.397a1bf4.chunk.js"
+  ]
+}
